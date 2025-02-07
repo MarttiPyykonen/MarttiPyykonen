@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarttiPyykonen
-- 👀 I’m interested in iOS development
+- 👀 I’m interested in php, JS, CSS and swift
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me: Twitter @Marttinus
